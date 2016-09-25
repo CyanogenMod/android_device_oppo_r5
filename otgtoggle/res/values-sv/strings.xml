@@ -20,4 +20,5 @@
   <string name="auto_detect_title">Automatisk identifiering</string>
   <string name="headset_title">Headset</string>
   <string name="otg_title">USB-enhet</string>
+  <string name="use_as_default">Kom ihåg det här valet</string>
 </resources>
